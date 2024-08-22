@@ -25,7 +25,7 @@ export default function Home() {
         <Link href={"./server-component"} className="bg-pink-400 hover:bg-pink-500 p-2">server component</Link>
       </div>
       <div className="py-5">
-        <p>hello world kon papa!!!!</p>
+        <p>hello world kon papa</p>
         <h1> this is footer:</h1>
         <Footer/>
       </div>
